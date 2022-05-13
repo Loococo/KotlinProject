@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">미세먼지</string>
+    <string name="dust_error_msg">오류입니다.</string>
+
+    <string name="current_location">(현재 위치)</string>
+
+    <string name="find_dust">미세먼지</string>
+    <string name="ultra_find_dust">초미세먼지</string>
+    <string name="find_dust_unit">%s ㎍/㎥</string>
+
+    <string name="nitrogen_dioxide">이산화질소</string>
+    <string name="ozone">오존</string>
+    <string name="carbon_monoxide">일산화탄소</string>
+    <string name="sulphur_dioxide">아황산가스</string>
+    <string name="dust_unit">%s ppm</string>
+
+    <string name="dust_license">자료 출처 : 한국환경공단(에어코리아)\n본 자료는 한국환경공당(에어코리아)에서 개발 용도로 제공 받은 자료입니다. 자료 오류 및 실제 데이터와 다를 수 있습니다.</string>
+</resources>
